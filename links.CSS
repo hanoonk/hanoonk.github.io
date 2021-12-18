@@ -1,0 +1,80 @@
+body{
+    font-family:sans-serif;
+    padding: 0;
+    margin: 0;
+background-color: ghostwhite;
+    direction: ltr;
+}
+.container{
+    margin: auto;
+    overflow: hidden;
+    
+}
+ul{
+    margin: 0;
+    padding: 0px;
+}
+
+header{
+   background: linear-gradient();
+    color: #fff;
+    padding: top 30px;
+    min-height: 50px;
+    border-bottom: rebeccapurple solid;
+}
+header a{
+    color: rgb(226, 17, 226);
+    text-decoration: none;
+    font-size: 17px;
+}
+header li{
+    float: right;
+    margin: 0;
+    display: inline;
+    padding: 0 30px 0 30px ;
+}
+header #brand{
+    float: center;
+}
+header #brand h1{
+    margin: 0;
+    color: darkslateblue;
+}
+
+header nav{
+   float: right;
+   margin-top: 10px;
+}
+header .current a {
+    color: rgb(199, 100, 117);
+    font-weight: bold;
+}
+header a:hover{
+    color: rgb(167, 61, 167);
+    font-weight: bold;
+}
+#newsletter{
+    background: 15px;
+    color: palevioletred;
+    background: url("m.jpg");
+}
+.container h3{
+    color: thistle;
+}
+body table{
+    font-size: 30px;
+}
+.button {
+    float: right;
+}
+table tborder{
+    grid-template-columns: 1fr 1fr 1fr;
+}
+.button typy{
+float: right;
+}
+table a{
+    text-decoration: none;
+
+}
+
